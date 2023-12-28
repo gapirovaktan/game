@@ -25,7 +25,7 @@ int main() {
 
     while (matched == 0) {
         int index1, index2;
-        int check = 0;
+       
         cout << "Вот массив: ";
         for (int i = 0; i < a; i++) {
             cout << numbers[i] << " ";
